@@ -10,3 +10,4 @@ const new_feature = "The new feature";
 console.log(new_feature);
 
 console.log("new feature idea");
+console.log("cool");
