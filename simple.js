@@ -5,5 +5,7 @@ console.log("new Change VSCode");
 
 console.log("The third branch");
 
+console.log("Made before merging the testbranch");
+
 const new_feature = "The new feature";
 console.log(new_feature);
