@@ -4,4 +4,6 @@ console.log("Hello world2!");
 console.log("new Change VSCode");
 
 console.log("The third branch");
-ß;
+
+const new_feature = "The new feature";
+console.log(new_feature);
